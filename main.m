@@ -1,4 +1,5 @@
-%PROJECT 1
+%%KNN and Decision Tree Algorithms for Character Recognition of EMNIST Dataset
+
 clear all
 close all
 clc
